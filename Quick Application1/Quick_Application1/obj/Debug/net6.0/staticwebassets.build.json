@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "xE5oDvfz7xPI886RNklOJDInxPJH5Vd9ROpFBJxSXHk=",
+  "Source": "Quick_Application1",
+  "BasePath": "_content/Quick_Application1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Quick_Application1\\wwwroot",
+      "Source": "Quick_Application1",
+      "ContentRoot": "D:\\Ambiente de Trabalho\\Just Fo Test Angular\\Test Angular\\Quick Application1\\Quick_Application1\\wwwroot\\",
+      "BasePath": "_content/Quick_Application1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Ambiente de Trabalho\\Just Fo Test Angular\\Test Angular\\Quick Application1\\Quick_Application1\\wwwroot\\favicon.ico",
+      "SourceId": "Quick_Application1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ambiente de Trabalho\\Just Fo Test Angular\\Test Angular\\Quick Application1\\Quick_Application1\\wwwroot\\",
+      "BasePath": "_content/Quick_Application1",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

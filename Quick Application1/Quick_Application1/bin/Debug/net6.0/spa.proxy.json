@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44450",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Ambiente de Trabalho\\Just Fo Test Angular\\Test Angular\\Quick Application1\\Quick_Application1\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

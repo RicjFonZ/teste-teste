@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Ambiente de Trabalho\\Just Fo Test Angular\\Test Angular\\Quick Application1\\Quick_Application1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Quick_Application1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Quick_Application1.props",
+      "PackagePath": "build\\Quick_Application1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Quick_Application1.props",
+      "PackagePath": "buildMultiTargeting\\Quick_Application1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Quick_Application1.props",
+      "PackagePath": "buildTransitive\\Quick_Application1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
